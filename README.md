@@ -67,3 +67,18 @@ python app/client
 
 # 运行客户端
 streamlit run app/client.py
+```
+
+## More Functionality Source Code
+
+This version is the basic edition. For more refined implementations and details of BiliBili data & public opinion analysis, please join our technical exchange group. **<span style="color:red;">Scan to add our customer service agent Mudeng, and reply with “BiliAgent” for detailed inquiries 👇</span>**
+
+<div align="center">
+<img src="https://muyu001.oss-cn-beijing.aliyuncs.com/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241016153337.jpg" width="200"/>
+</div>
+
+## How to Contribute
+
+We welcome contributions via Pull Requests or Issues. All forms of contributions are greatly appreciated, including but not limited to new feature suggestions, code optimizations, and documentation improvements.
+
+
