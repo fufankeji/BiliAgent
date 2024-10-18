@@ -53,7 +53,7 @@ BiliAgent 是一个基于大模型构建的复杂 AI Agent 应用工具，该应
 - **核心功能开发流程图**
 
 <div align="center">
-  <img src="https://muyu001.oss-cn-beijing.aliyuncs.com/img/20241016003.png" width="700"/>
+  <img src="https://muyu001.oss-cn-beijing.aliyuncs.com/img/20241018002%E6%9C%AC.png" width="700"/>
   </div>
 
 
