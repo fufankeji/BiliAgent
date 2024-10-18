@@ -1,0 +1,11 @@
+# 忽略 Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略环境配置文件
+.env
+.venv/
+env/
+venv/
+
