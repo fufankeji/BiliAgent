@@ -45,8 +45,9 @@ BiliAgent is a complex AI Agent application built on large models. This tool rec
 </div>
 
 - **Core Function Development Flowchart**
-![Description](https://muyu001.oss-cn-beijing.aliyuncs.com/img/202410180010.png)
-
+<div align="center">
+  <img src="https://muyu001.oss-cn-beijing.aliyuncs.com/img/202410180010.png" width="700"/>
+</div>
 
 ## Installation Guide
 ```bash
