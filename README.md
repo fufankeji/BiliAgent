@@ -63,7 +63,7 @@ pip install -r requirements.txt
 # 在.env文件中填写OpenAI API Key
 
 # 运行服务端
-python app/client
+python app/server.py
 
 # 运行客户端
 streamlit run app/client.py
